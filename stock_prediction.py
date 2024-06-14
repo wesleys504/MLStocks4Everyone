@@ -75,7 +75,7 @@ city = ticker.info['city']
 state = ticker.info['state']
 country = ticker.info['country']
 industry = ticker.info['industry']
-sector = ticker.info['sectorDisp']
+# sector = ticker.info['sectorDisp']
 CEO = ticker.info['companyOfficers'][0]['name']
 
 
